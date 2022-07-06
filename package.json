@@ -1,0 +1,24 @@
+{
+  "name": "md-table-of-contents-generator",
+  "version": "1.0.0",
+  "description": "A GitHub action to automatically create table of contents for your markdowns, so you don't need to get your fingers tired :) - IN DEVELOPMENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Float07/md-table-of-contents-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Float07/md-table-of-contents-generator/issues"
+  },
+  "homepage": "https://github.com/Float07/md-table-of-contents-generator#readme",
+  "dependencies": {
+    "@actions/core": "^1.9.0",
+    "@actions/github": "^5.0.3"
+  }
+}
